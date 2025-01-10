@@ -1,1 +1,2 @@
-# synopsis-generator
+# Генератор конспектов
+python 3.9
